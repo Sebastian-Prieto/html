@@ -90,3 +90,10 @@ option {
     font-size: 1rem;
 }
 
+form {
+    accent-color: #312e81;
+}
+
+input:focus-visible {
+    outline: 1px solid #312e81;
+}
